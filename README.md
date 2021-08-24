@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Liam
+- 👋 Hi, my name is Liam
 - 👀 I’m interested in video games and coding.
 - 🌱 I’m currently learning how to code and all sorts of CS stuff.
 - 💞️ I’m looking to collaborate on school projects.
